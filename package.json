@@ -1,5 +1,5 @@
 {
-	"name": "@goldjacobe/turboplus",
+	"name": "@jacobgold/turboplus",
 	"version": "0.0.1",
 	"description": "A nicer interface to autocomplete turbo builds",
 	"main": "dist/index.js",
